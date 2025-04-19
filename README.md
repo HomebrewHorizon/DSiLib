@@ -1,1 +1,1 @@
-# DSi-WiiLib
+# DSiLib
